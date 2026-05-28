@@ -1,6 +1,11 @@
 {
   "name": "full-stack-e-commerce-platform",
   "description": "Full-stack e-commerce platform with React storefront, Express API, admin dashboard, and analytics.",
+  "homepage": "https://full-stack-e-commerce-platform-507307610839.europe-west2.run.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vera93203/full-stack-e-commerce-platform.git"
+  },
   "private": true,
   "version": "1.0.0",
   "type": "module",
