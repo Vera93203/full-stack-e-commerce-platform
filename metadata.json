@@ -1,0 +1,6 @@
+{
+  "name": "Full-Stack E-Commerce Platform",
+  "description": "A production-grade Sovereign e-commerce platform featuring a minimalist customer storefront and an administrative intelligence console with automated inventory ledgers, bento charts, and simulated Stripe payment gateways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
